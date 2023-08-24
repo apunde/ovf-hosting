@@ -87,16 +87,6 @@
         <vmw:Config ovf:required="false" vmw:key="allowUnrestrictedCommunication" vmw:value="false" />
         <vmw:Config ovf:required="false" vmw:key="slotInfo.pciSlotNumber" vmw:value="32" />
       </Item>
-      <Item ovf:required="false">
-        <rasd:AddressOnParent>0</rasd:AddressOnParent>
-        <rasd:AutomaticAllocation>false</rasd:AutomaticAllocation>
-        <rasd:ElementName>CD/DVD drive 1</rasd:ElementName>
-        <rasd:InstanceID>8</rasd:InstanceID>
-        <rasd:Parent>4</rasd:Parent>
-        <rasd:ResourceSubType>vmware.cdrom.remotepassthrough</rasd:ResourceSubType>
-        <rasd:ResourceType>15</rasd:ResourceType>
-        <vmw:Config ovf:required="false" vmw:key="backing.exclusive" vmw:value="false" />
-      </Item>
       <Item>
         <rasd:AddressOnParent>0</rasd:AddressOnParent>
         <rasd:ElementName>Hard disk 1</rasd:ElementName>
