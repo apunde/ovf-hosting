@@ -1,0 +1,2 @@
+SHA1(Tiny-Core-Linux7-2-disk1.vmdk)= eaf8aaf2fd9af813c8f068abadba9b65a12e185c
+SHA1(Tiny-Core-Linux7-2.ovf)= 5f9c49326026ef8a6ae35dcdd16a10345159f1dc
